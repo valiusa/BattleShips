@@ -1,0 +1,7 @@
+E:\Viusal_CS_Projects\BattleShips\BattleShips\bin\Debug\BattleShips.exe.config
+E:\Viusal_CS_Projects\BattleShips\BattleShips\bin\Debug\BattleShips.exe
+E:\Viusal_CS_Projects\BattleShips\BattleShips\bin\Debug\BattleShips.pdb
+E:\Viusal_CS_Projects\BattleShips\BattleShips\obj\Debug\BattleShips.csprojAssemblyReference.cache
+E:\Viusal_CS_Projects\BattleShips\BattleShips\obj\Debug\BattleShips.csproj.CoreCompileInputs.cache
+E:\Viusal_CS_Projects\BattleShips\BattleShips\obj\Debug\BattleShips.exe
+E:\Viusal_CS_Projects\BattleShips\BattleShips\obj\Debug\BattleShips.pdb
